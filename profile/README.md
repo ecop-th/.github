@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ecop-th/detection-rules/main/docs/assets/banner.png" alt="E-C.O.P. Thailand" width="840">
+<img src="https://raw.githubusercontent.com/ecop-th/.github/main/profile/banner.png" alt="E-C.O.P. Thailand — Stand Watch. With Care." width="900">
 
 # 🛡️ E-C.O.P. (Thailand)
 
