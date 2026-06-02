@@ -28,18 +28,17 @@ Managed Security Service Provider ดูแลธุรกิจไทยมา 
 
 ---
 
-## ⚙️ XIPHER Ecosystem — 8 tools ที่ integrate กันตั้งแต่ต้น
+## ⚙️ XIPHER AI Ecosystem
+
+แพลตฟอร์มที่เราพัฒนาเอง — **เปิดให้บริการแล้ว:**
 
 | Tool | หน้าที่ |
 |---|---|
 | 🧠 **XIPHER AI SIEM** | ศูนย์กลาง · AI correlation กรอง noise |
-| 💥 **XIPHER BAS** | Breach & Attack Simulation |
-| 🌐 **XIPHER ASM** | Attack Surface Management |
-| 🕵️ **XIPHER DRP** | Digital Risk Protection |
-| 🪤 **XIPHER Deception** | ดักจับผู้บุกรุก |
-| 🛰️ **XIPHER NDR** | Network Detection & Response |
-| 🎯 **XIPHER TI** | Threat Intelligence (30+ sources) |
-| ⚡ **XIPHER SOAR** | Automated Response |
+| 🕵️ **XIPHER AI DRP** | Digital Risk Protection ขับเคลื่อนด้วย AI |
+| ⚡ **XIPHER AI SOAR** | Automated Response อัตโนมัติด้วย AI |
+
+> 🔜 และอีกหลาย module ที่กำลังทยอยเปิดตัว
 
 ---
 
@@ -51,7 +50,7 @@ Managed Security Service Provider ดูแลธุรกิจไทยมา 
 
 ## 🏆 ทำไมลูกค้าเลือกเรา
 
-- 🔭 **Visibility-First SOC** · powered by XIPHER 8-tool ecosystem
+- 🔭 **Visibility-First SOC** · powered by XIPHER AI ecosystem (พัฒนาเอง)
 - 📅 **19 ปี** ผ่านทุกยุคของภัยคุกคาม
 - 👥 **SOC Analyst 100+ คน** · CREST + OSCP + CISSP · 24/7
 - 📜 **ISO 27001 + ISO 20000** · 🔜 ISO 27701 + ISO 42001 ปลายปีนี้
@@ -61,10 +60,16 @@ Managed Security Service Provider ดูแลธุรกิจไทยมา 
 
 ---
 
-## 🔭 Open-Source by ECOP
+## 🤝 Open Source เพื่อสังคมไซเบอร์ไทย
+
+> **ความมั่นคงปลอดภัยไซเบอร์ไม่ควรเป็นสิทธิ์ของแค่องค์กรที่มีงบมาก**
+
+SOC หลายแห่งในไทยขาดเวลาและทรัพยากรที่จะเขียน detection ที่ดีเอง เราจึงเปิดสิ่งที่ทีม MDR ของเราใช้จริง ออกสู่สาธารณะ **ฟรี** เพื่อให้ทุกองค์กร — ไม่ว่าจะเป็นลูกค้าเราหรือไม่ — ยกระดับการตรวจจับภัยได้ เพราะเมื่อ **SOC ไทยทุกแห่งแข็งแรงขึ้น ประเทศเราก็ปลอดภัยขึ้นทั้งระบบ**
+
+นี่คือส่วนหนึ่งของคำว่า **"With Care"** — เราดูแลไม่ใช่แค่ลูกค้า แต่ดูแลชุมชนไซเบอร์ของประเทศ
 
 ### 🛡️ [detection-rules](https://github.com/ecop-th/detection-rules)
-**Detection-as-code สำหรับ SOC ไทยและอาเซียน** — Sigma rules แมป MITRE ATT&CK + **IR Playbook ภาษาไทย**
+Detection-as-code สำหรับ SOC ไทยและอาเซียน — Sigma rules แมป MITRE ATT&CK + **IR Playbook ภาษาไทย**
 ก๊อปไปวางใน Splunk / Sentinel / Elastic ได้เลย · ทดสอบแล้วว่าใช้ได้จริง · **ฟรี ไม่ต้องสมัคร**
 
 > ⭐ ถ้ามีประโยชน์กับ SOC ของคุณ ฝาก Star ไว้ติดตาม update รายสัปดาห์ด้วยนะครับ
